@@ -12,7 +12,8 @@ Este projeto é uma aplicação Python desenvolvida para fornecer soluções par
 Nossa solução busca mapear os oceanos no sentido de contribuir para a limpeza das águas e conscientizar a população sobre a poluição deste recurso natural. 
 A captura de dados será realizada a partir de boias que estarão localizadas em pontos estratégicos do oceano, com sensores que medirão a pureza, o PH, a turbidez e a temperatura das águas. 
 Em seguida, os dados coletados serão apresentados em nosso site de forma clara, com mapas interativos, mostrando a localização das boias, os dados coletados por elas e as ferramentas de análise para identificação de padrões.  
-Além disso, o usuário conseguirá comparar os dados coletados por nós e identificar qual seria o nível ideal para cada tópico.
+Além disso, o usuário conseguirá comparar os dados coletados por nós e identificar qual seria o nível ideal para cada tópico. Por exemplo, o PH natural do oceano é em torno de 8,2 na escala de PH, contudo, em algumas regiões, chega a 7,9 na escala, mostrando um oceano mais próximo do nível ácido. Por fim, textos explicativos mostrarão o que cada grupo da sociedade pode fazer para conter essa acidificação e reverter a poluição dos oceanos. 
+
 
 ## Instruções de Uso
 
