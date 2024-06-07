@@ -17,10 +17,10 @@ Além disso, o usuário conseguirá comparar os dados coletados por nós e ident
 
 ## Instruções de Uso
 
-1. Clone o repositório para a sua máquina local usando `git clone link-do-repositório`.
-2. Navegue até a pasta do projeto usando `cd nome-do-projeto`.
+1. Clone o repositório para a sua máquina local usando `git clone https://github.com/Laurasdc/GS--prototipo`.
+2. Navegue até a pasta do projeto usando `cd GS--prototipo`.
 3. Instale todas as dependências usando `pip install -r requirements.txt`.
-4. Execute o script principal usando `python main.py`.
+4. Execute o script principal usando `python master.py`.
 
 ## Requisitos
 
